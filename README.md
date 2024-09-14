@@ -58,7 +58,8 @@ o	Save the final modified image to your local directory.
 
 
 ## Output:
-
+### Jupyter Note Book Link:
+http://localhost:8888/tree/dip/EX-01
 ### i)Read and Display an Image
 #### Load the image from your local directory and display it
 ```
